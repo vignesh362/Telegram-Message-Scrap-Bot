@@ -1,4 +1,4 @@
-# This project is designed to scrape messages from a specified Telegram group or channel. It then processes these messages based on predefined conditions. If these conditions are met, a reminder is triggered, and a WhatsApp message is sent to a designated recipient.
+This project is designed to scrape messages from a specified Telegram group or channel. It then processes these messages based on predefined conditions. If these conditions are met, a reminder is triggered, and a WhatsApp message is sent to a designated recipient.
 
 # Features  
 + Efficiently scrapes messages from Telegram groups or channels.  
